@@ -1,0 +1,17 @@
+name: ML_SageMaker_Studies
+
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - autopep8
+  - boto3
+  - jupyterlab
+  - matplotlib
+  - numpy
+  - pandas
+  - pip
+  - python=3.6
+  - sagemaker-python-sdk
+  - scikit-learn

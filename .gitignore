@@ -2,3 +2,5 @@
 .ipynb_checkpoints/
 .github/**
 
+Payment_Fraud_Detection/creditcardfraud.zip
+Payment_Fraud_Detection/creditcard.csv
